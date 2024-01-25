@@ -18,3 +18,11 @@
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
 </div>
+
+<br>
+
+---
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DillonWall&theme=onedark)](https://github.com/DillonWall/github-profile-trophy)
