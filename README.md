@@ -25,4 +25,4 @@
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DillonWall&theme=onedark)](https://github.com/DillonWall/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DillonWall&theme=onedark)](https://github.com/DillonWall)
