@@ -13,7 +13,7 @@
   <ul>
     <li>🌎 Originating from USA, studied in Japan, living in Hong Kong 🌏</li> 
     <li>🌱 I’m currently learning AWS and Docker</li> 
-    <li>❤️‍🔥 I have a passion for Software Engineering, Cloud, Automation, and Machine Learning</li> 
+    <li>❤️‍🔥 I have a passion for Software Engineering, DevOps, and Machine Learning</li> 
     <li>🤔 I’m looking for work in Hong Kong</li> 
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
