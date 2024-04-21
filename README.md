@@ -12,9 +12,9 @@
 <div align="left">
   <ul>
     <li>🌎 Originating from USA, studied in Japan, living in Hong Kong 🌏</li> 
-    <li>🌱 I’m currently learning Java Spring Boot and DevOps tools such as Jenkins</li> 
-    <li>❤️‍🔥 I have a passion for Software Engineering, DevOps, and Machine Learning</li> 
-    <li>🤔 I’m looking for work in Hong Kong</li> 
+    <li>🌱 I’m currently learning web development with the WAMP stack</li> 
+    <li>❤️‍🔥 I have a passion for all kinds of Software Engineering; including Web, DevOps, and Machine Learning</li> 
+    <li>🤔 I’m looking for ideas for web apps to help solidify my experience in HTML and Javascript</li> 
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
 </div>
