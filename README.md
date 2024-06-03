@@ -12,9 +12,9 @@
 <div align="left">
   <ul>
     <li>🌎 Originating from USA, studied in Japan, living in Hong Kong 🌏</li> 
-    <li>🌱 I’m currently learning web development with the WAMP stack</li> 
+    <li>🌱 I’m currently learning web development with the WAMP and also MERN stacks</li> 
     <li>❤️‍🔥 I have a passion for all kinds of Software Engineering; including Web, Mobile, Desktop, DevOps, and Machine Learning</li> 
-    <li>🤔 I’m looking into starting a business creating cross-platform apps using Flutter</li> 
+    <li>🤔 I’m prospectively looking into starting a business creating cross-platform apps using Flutter</li> 
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
 </div>
