@@ -11,7 +11,7 @@
 
 <div align="left">
   <ul>
-    <li>🌎 Originating from USA, studied in Japan, living in Hong Kong 🌏</li> 
+    <li>🌎 Originating from USA, studied in Japan, living in Hong Kong</li> 
     <li>🌱 I’m currently learning web development in ASP.NET Core and React</li> 
     <li>❤️‍🔥 I have a passion for all kinds of Software Engineering; including Web, Mobile, Desktop, DevOps, and Machine Learning</li> 
     <li>🤔 I’m prospectively looking into starting a business creating cross-platform apps using Flutter</li> 
