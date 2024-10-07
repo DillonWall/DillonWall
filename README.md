@@ -14,7 +14,7 @@
     <li>🌎 Originating from USA, studied in Japan, living in Hong Kong</li> 
     <li>🌱 I’m currently learning web development in ASP.NET Core and React</li> 
     <li>❤️‍🔥 I have a passion for all kinds of Software Engineering; including Web, Mobile, Desktop, DevOps, and Machine Learning</li> 
-    <li>🤔 I’m prospectively looking into starting a business creating cross-platform apps using Flutter</li> 
+    <li>🤔 I’m looking to settle down in the UK, and would love to hear about any Software Engineering opportunities!</li> 
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
 </div>
