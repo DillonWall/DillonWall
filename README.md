@@ -12,7 +12,7 @@
 <div align="left">
   <ul>
     <li>🌎 Originating from USA, studied in Japan, living in Hong Kong</li> 
-    <li>🌱 I’m currently studying for the CompTIA Network+ N10-009 certification exam</li> 
+    <li>🤵 I’m currently working at Pantheon Lab Limited/li> 
     <li>❤️‍🔥 I have a passion for all kinds of Software Engineering; including Web, Mobile, Desktop, DevOps, Machine Learning, and more</li> 
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
