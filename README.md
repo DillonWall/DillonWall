@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dillon-wall/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/Dillon%20Wall-blue?logo=linkedin"/></a>
-  <a href="mailto:DillonMWall@msn.com"><img alt="Mail Badge" src="https://img.shields.io/badge/DillonMWall%40msn.com-red?logo=gmail&labelColor=white"></a>
   <a href="https://github.com/DillonWall"><img alt="Follow GitHub Badge" src="https://img.shields.io/github/followers/dillonwall?label=follow&style=social"></a>
 </div>
 <br/>
@@ -17,11 +16,3 @@
     <li>💬 Contact me on <a href="https://www.linkedin.com/in/dillon-wall/">LinkedIn</a> or via <a href="mailto:DillonMWall@msn.com">Email</a>!</li>
   </ul>
 </div>
-
-<br>
-
----
-
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DillonWall&theme=onedark)](https://github.com/DillonWall)
